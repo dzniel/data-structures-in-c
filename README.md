@@ -3,4 +3,5 @@
 _This repo contains personal data structures source codes._
 
 ### :label: Content
-* Single Linked List
+1. Single Linked List
+2. Doubly Linked List
