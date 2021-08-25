@@ -1,4 +1,4 @@
-# :dna: Data Structures in C
+# :dna: Data Structures in C :dna:
 
 _This repo contains personal data structures source codes._
 
